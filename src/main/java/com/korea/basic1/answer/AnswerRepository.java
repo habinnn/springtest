@@ -1,4 +1,4 @@
-package com.korea.basic1;
+package com.korea.basic1.answer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

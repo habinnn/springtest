@@ -1,7 +1,8 @@
-package com.korea.basic1;
+package com.korea.basic1.answer;
 
 import java.time.LocalDateTime;
 
+import com.korea.basic1.question.Question;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

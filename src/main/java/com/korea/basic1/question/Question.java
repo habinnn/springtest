@@ -1,10 +1,11 @@
-package com.korea.basic1;
+package com.korea.basic1.question;
 
 
 
 import java.time.LocalDateTime;
 import java.util.List;
 
+import com.korea.basic1.answer.Answer;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
